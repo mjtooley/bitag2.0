@@ -1,6 +1,6 @@
 ## This document is intended to (1) collect suggestions on possible future BITAG topics and (2) invite feedback on those potential topics already in the queue. 
 
-### To do either of those two things, please file an Issue at https://github.com/bitag-twg/bitag2.0/issues/new. 
+To do either of those two things, please file an Issue at https://github.com/bitag-twg/bitag2.0/issues/new. 
 
 ## Future Topic Queue - Sorted According to TWG Interest & Publicly Expressed Interest
 
