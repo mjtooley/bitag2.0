@@ -5,21 +5,27 @@ As a result, the TWG has decided to begin the process of Working Group formation
 
 ### Draft Topic: Lorem Ipsum
 
-Technical Participants Solicited: 
+#### Technical Participants Solicited: 
 - From 1/1/2020-1/31/2020
 - Please email dsicker@bitag.org to register your interest
 
-Working Group Begins Work: 
+#### Working Group Begins Work: 
 - February 2020
 
-Editor(s): 
-- Volunteers sought from 1/1/2020-1/31/2020
-- TWG to select editor(s) during first conference call in February 2020
-
-Estimated Time Commitment: 
+#### Estimated Time Commitment: 
 - Paper to be completed within no more than FOUR months
 - Weekly conference calls of ONE hour per week
 - Contributions of text and text review/comment estimated at ONE hour per week
 
-Method of Collaboration:
+#### Scope:
+- Limited to lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+#### Paper Length:
+- Limited to no more than 25 double-spaced pages, including graphics, tables, appendecies, footnotes and references.
+
+#### Editor(s): 
+- Volunteers sought from 1/1/2020-1/31/2020
+- TWG to select editor(s) during first conference call in February 2020
+
+#### Method of Collaboration:
 - TBD by the TWG (either Microsoft Word redline shared via Box or similar service, Google Docs, or Git Hub)
