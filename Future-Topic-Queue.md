@@ -1,16 +1,16 @@
-This document is intended to (1) collect suggestions on possible future BITAG topics and (2) invite feedback on 
+# This document is intended to (1) collect suggestions on possible future BITAG topics and (2) invite feedback on 
 those potential topics already in the queue. 
 
-To do either of those two things, please file an Issue at https://github.com/bitag-twg/bitag2.0/issues/new. 
+## To do either of those two things, please file an Issue at https://github.com/bitag-twg/bitag2.0/issues/new. 
 
-Future Topic Queue - Sorted According to TWG Interest & Publicly Expressed Interest
+# Future Topic Queue - Sorted According to TWG Interest & Publicly Expressed Interest
 
 1. 
 2. 
 3. 
 4. 
 
-Backlog Topic Queue - NOT YET SORTED (TWG needs to determine whether a topic below in backlog should be promoted to 
+# Backlog Topic Queue - NOT YET SORTED (TWG needs to determine whether a topic below in backlog should be promoted to 
 the list above)
 
 1. 5G slicing - potential network neutrality & network management implications
