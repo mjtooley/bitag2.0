@@ -26,3 +26,4 @@ last mile, middle mile, backbone, public & private exchange points
 12. Exploring software transparency, traceability and updates (noting that NTIA is doing some work in this area with SBOM)
 13. Technical challenges and issues in seeking AI and algorithmic transparency 
 14. Recommended authentication & security practices for Internet-connected cameras (e.g. Ring, Nest - see https://advocacy.consumerreports.org/press_release/consumer-reports-urges-ring-wyze-guardzilla-and-others-to-raise-security-and-privacy-standards-for-connected-cameras/)
+15. Can broadband availability be determined by speed test data?
