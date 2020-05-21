@@ -24,16 +24,15 @@ Significant recent changes in the Internet usage have occurred as a result of
 COVID-19, which have made it even more critical to have an accurate technical
 understanding of how the Internet is performing. Comparing the results of
 different performance measurement tools is challenging, for several reasons.
+One of these reasons is the methods for post-processing the measurements to
+produce statistics can vary, significantly, particularly how individual
+measurements are aggregated and summarized.
 
-1. The technical methods for performing the measurements can vary.
-2. The methods for post-processing the measurements to produce statistics can
-   also vary.
-
-This paper described and explains frequently used Internet speed test metrics
+This paper describes and explains frequently used Internet speed test metrics
 and makes specific technical recommendations for standardized measurement
-methods and corresponding metrics to enable better general understanding of
-speed test data, as well as meaningful comparisons of measurements and metrics
-across different tools and datasets.
+metrics to enable better general understanding of speed test data, as well as
+meaningful comparisons of measurements and metrics across different tools, 
+datasets, and reports.
 
 OUT of Scope: Assessment of different speed testing tools & recommendations on
 the best speed testing techniques.
