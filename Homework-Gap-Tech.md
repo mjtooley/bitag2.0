@@ -64,4 +64,4 @@ Editor(s): Volunteers sought from XX/XX/XXXX - XX/XX/XXXX TWG to select
 editor(s) during first conference call in XXXXXXXX 2020
 
 Method of Collaboration: GitHub for document collaboration and Zoom for video
-conferences
+conferences.
