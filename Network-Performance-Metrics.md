@@ -15,21 +15,31 @@ Weekly conference calls of ONE hour per week
 Contributions of text and text review/comment estimated at ONE hour per week
 
 Scope:
-Many parties have an interest in accurately understanding the capacity & performance of different parts of the Internet in 
-normal times. Significant recent changes in the Internet usage have occured as a result of COVID-19 and made it even more 
-critical to have an accurate technical understanding of how the Internet is performing. Comparing the results of different 
-tools is difficult, sometimes because how metrics are calculated from collected data varies from platform to platform or 
-even researcher to researcher using the same underlying data. 
 
-This paper assesses frequently used Internet speed test metrics and makes specific technical 
-recommendations on a simnple set of standardized metrics that can be used to enable better comparisons between 
-different measurement tools and improve overall understanding of speed test data.
+Many parties have an interest in understanding the capacity and performance of
+different parts of the Internet in normal times and under normal operating
+conditions. 
 
-OUT of Scope:
-Assessment of different speed testing tools & recommendations on the best speed testing techniques.
+Significant recent changes in the Internet usage have occurred as a result of
+COVID-19, which have made it even more critical to have an accurate technical
+understanding of how the Internet is performing. Comparing the results of
+different performance measurement tools is challenging, for several reasons.
 
-Paper Length:
-Limited to no more than 25 double-spaced pages, including graphics, tables, appendecies, footnotes and references.
+1. The technical methods for performing the measurements can vary.
+2. The methods for post-processing the measurements to produce statistics can
+   also vary.
+
+This paper described and explains frequently used Internet speed test metrics
+and makes specific technical recommendations for standardized measurement
+methods and corresponding metrics to enable better general understanding of
+speed test data, as well as meaningful comparisons of measurements and metrics
+across different tools and datasets.
+
+OUT of Scope: Assessment of different speed testing tools & recommendations on
+the best speed testing techniques.
+
+Paper Length: Limited to no more than 25 double-spaced pages, including
+graphics, tables, appendecies, footnotes and references.
 
 Editor(s):
 Volunteers sought from XX/XX/XXXX - XX/XX/XXXX
