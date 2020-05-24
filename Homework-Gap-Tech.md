@@ -57,6 +57,9 @@ recommendations. [TBD: The paper may also make recommendations on how to
 measure the quality and reliability of these solutions in a standardized way
 and to enable measurement of technical value (i.e. RoI).]
 
+Out of scope - commentary on economic or policy issues; discussions of equity 
+beyond the scope creating this gap.
+
 Paper Length: Limited to no more than 25 double-spaced pages, including
 graphics, tables, appendecies, footnotes and references.
 
