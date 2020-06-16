@@ -45,7 +45,7 @@ NetForecast - https://www.netforecast.com/netforecasts-report-on-comcasts-networ
 
 #### Out of scope - commentary on economic or policy issues; discussions of equity beyond the scope creating this gap.
 
-#### Paper Length: Limited to no more than 35 double-spaced pages, including graphics, tables, appendecies, footnotes and references.
+#### Paper Length: Limited to no more than 35 double-spaced pages, including graphics, tables, appendices, footnotes and references.
 
 #### Editor(s): Volunteers sought from 6/29/2020 - 7/31/2020 TWG to select editor(s) during first conference call in August 2020
 
