@@ -1,8 +1,8 @@
-#### Draft Topic: Pandemic Network Performance
+#### New Topic: Pandemic Network Performance
 
-#### Technical Participants Solicited: From 6/29/2020 - 7/31/2020
+#### Technical Participants Solicited: From 7/27/2020 - 8/31/2020
 
-Please email dsicker@bitag.org to register your interest
+Please email dsicker@bitag.org to register your interest. You or your organization DO NOT need to be members or sponsors to participate.
 
 Type of participants sought:
 - Internet measurement platforms
@@ -14,11 +14,12 @@ Type of participants sought:
 - Video streaming providers
 - Popular application providers
 
-#### Working Group Begins Work: August 3, 2020
+#### Working Group Begins Work: Week of September 7, 2020
 
-#### Estimated Time Commitment: Paper to be completed within no more than THREE months (reduced from four)
+#### Estimated Time Commitment: Paper to be completed within NO MORE THAN THREE months (week of December 7, 2020)
 
 Weekly conference calls of ONE hour per week  
+
 Contributions of text and text review/comment estimated at ONE hour per week
 
 #### Scope:
@@ -47,6 +48,6 @@ NetForecast - https://www.netforecast.com/netforecasts-report-on-comcasts-networ
 
 #### Paper Length: Limited to no more than 35 double-spaced pages, including graphics, tables, appendices, footnotes and references.
 
-#### Editor(s): Volunteers sought from 6/29/2020 - 7/31/2020 TWG to select editor(s) during first conference call in August 2020
+#### Editor(s): Volunteers sought from 7/27/2020 - 8/31/2020 TWG to select editor(s) during first conference call in September 2020
 
 #### Method of Collaboration: GitHub for document collaboration and Zoom for video conferences.
