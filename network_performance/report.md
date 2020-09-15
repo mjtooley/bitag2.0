@@ -6,7 +6,7 @@
 - Structure of document
 
 # Recap of Pandemic Shutdowns in 2020 and the Impacts to the Internet
-- Discuss here a short recap of the COVID-19 pandemic in 2020, government ordered shutdowns when they occurred and for how long, how this impacted society with a sudden shift to WFH, distance learnming, social distancing, etc.
+- Discuss here a short recap of the COVID-19 pandemic in 2020, government ordered shutdowns when they occurred and for how long, how this impacted society with a sudden shift to WFH, distance learning, social distancing, etc.
 - High level observed changes in how the internet was used - more bandwidth, more usage, potential shifts in peak hour, changes in popular applications
 - List and cite some of the key reported metrics, observations (e.g. 1 year's worth of bw growth in one month, peak hour shifting from 8pm to 2pm in some markets, etc.)
   - Nokia Deepfield Networks
@@ -184,10 +184,11 @@ Discuss here the observed and reported changes by the network infrastructure
 - VPNs
 - Social Networking (FB, WhatsApp, TikTok, etc.)
 - Dropbox
+
 [ 
 
 Describe here how the application providers responded
-- Temporarily disbabling features such as HD or UHD video?
+- Temporarily disabling features such as HD or UHD video?
 - Adding more security
 - Re-routing through different data centers
 - Opening up to make it easier for new users to sign on and use
